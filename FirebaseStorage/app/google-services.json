@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "351759238797",
+    "firebase_url": "https://sujinl-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sujinl",
+    "storage_bucket": "sujinl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351759238797:android:77950db9df14625baa04c4",
+        "android_client_info": {
+          "package_name": "kr.co.hanbit.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351759238797-9ng8ni1ceubsvcd6km94j2v1j6nbgvel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOgKT-JhJb9JP3Nz9z1Rj6NItHVw_G5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351759238797-9ng8ni1ceubsvcd6km94j2v1j6nbgvel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351759238797:android:e1d2256735e2e614aa04c4",
+        "android_client_info": {
+          "package_name": "kr.co.hanbit.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351759238797-9ng8ni1ceubsvcd6km94j2v1j6nbgvel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOgKT-JhJb9JP3Nz9z1Rj6NItHVw_G5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351759238797-9ng8ni1ceubsvcd6km94j2v1j6nbgvel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351759238797:android:8d90a47803946c8eaa04c4",
+        "android_client_info": {
+          "package_name": "kr.co.hanbit.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351759238797-9ng8ni1ceubsvcd6km94j2v1j6nbgvel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOgKT-JhJb9JP3Nz9z1Rj6NItHVw_G5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351759238797-9ng8ni1ceubsvcd6km94j2v1j6nbgvel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
